@@ -1,0 +1,93 @@
+**Case Study Template**
+
+```
+# TITLE
+
+## Overview and Origin
+
+* Company: Coinbase
+
+* Founded: June 20, 2012 
+
+* Founders: Brian Armstrong, Fred Ehrsam
+
+* Given the popularity of cryptocurrency and investment and trading opportunities based on crypto, this company seemed a very prominent competitor in the market. Moreover, according to the Forbes article on “11 biggest FinTech companies of 2019”, this company was placed as second most valuable private, venture based fintechs in the US and (Kauflin, 2019). I chose this company for this case study as I am very interested in crypto currency and the technology and platforms behind it and Coinbase is the largest cryptocurrency exchange in the US by trading volume (Wikipedia).
+
+* The current valuation of Coinbase is around 8 billion dollars. Coinbase makes money by charging commission fees for its brokerage and exchange. There are two types of fee it charges: margin fee and Coinbase fee. 
+
+Margin fee: Also known as the spread, Coinbase charges about 0.50% for crypto purchases and sales, although this rate varies depending on market conditions. The margin fee you end up paying depends on the change in price between when you get a price quote and when the order is actually completed.
+
+Coinbase Fee: This is a commission on all crypto transactions, charged in addition to the spread. How much you actually pay depends on your location and the total amount of your transaction.
+
+Coinbase has several other lines of business in addition to its exchange services.
+
+Coinbase Commerce: This service provides online retailers with software that lets them accept cryptocurrency payments. Think of PayPal, but for crypto—Coinbase’s plugins are used on a variety of e-commerce platforms.
+
+Coinbase Card. Coinbase is in the early stages of giving its users a physical Visa debit card and an accompanying app to spend cryptocurrencies in the physical world by converting crypto to U.S. dollars when used.
+USD Coin (USDC): Coinbase offers its very own cryptocurrency, USD Coin (USDC), which is built on the Ethereum platform. Its value is tied to the U.S. dollar, so 1 USDC is always worth $1.00.
+
+## Business Activities:
+
+* Coinbase provides its customers a secure online platform where they can trade, transfer, and store digital currency. Their mission is to “is to create an open financial system for the world and to be the leading global brand for helping people convert digital currency into and out of their local currency” (Coinbase, n.d.)
+The company started in 2012 and secured US$5million investment by Union Square Ventures (Needleman, 2013). Same year the company received another 25-million-dollar investment by Andreessen Horowitz, USV and Rabbit Capital (Cutler, 2014). In 2014 the company partnered with many known firms allowing them to accept bitcoin payments. In January 2015, the company received a US$75 million investment, led by Draper Fisher Jurvetson, the New York Stock Exchange, USAA, and several banks (Vigna & Casey, 2015). Later in 2017, Coinbase obtained the BitLicense and licensed to trade in Ethereum and Litecoin (Juan, 2017; New York State Department of Financial Services, 2017).
+
+*The company currently has over 43 million verified users and 56% of the users are trading Bitcoin and Ethereum. Recently, Robinhood allowed the transaction of Bitcoin and Ethereum on its platform too. Given the fact that Robinhood charges no commission, this could be a big blow for Coinbase because apart from charging commission on each transaction, majority of its customer base was trading these two crypto currencies. However, Coinbase has an edge over its competitors because it allows instant trading and has a huge list of crypto currencies that are tradable on its platform unlike its competitors along with an extremely simpler interface and high liquidity. 
+
+* Coinbase had most confident in Amazon Web Services (AWS). With his past experience while working at NASA’s Jet Propulsion Laboratory, Witoff used AWS for running the workloads on AWS and gained his trust. 
+(https://aws.amazon.com/solutions/case-studies/coinbase/)
+
+
+
+
+## Landscape:
+
+* The domain for this company is blockchain and cryptocurrency.
+ 
+* The first open innovation based on blockchain technology was the emergence of Bitcoin in 2008—the first cryptocurrency peer‐to‐peer network and internal digital currency. This network was a computer system in which each unit of the network performed the same function. Each participant in the system was both a client and a server [8]. 
+
+The second feature is the ubiquity of blockchain’s use. In other words, the understanding that this mechanism can be applied not only to the payment system and digital currencies but also to increase the efficiency and security of most internal and inter‐organizational operations of companies.
+
+ The emergence of “smart contracts” can be considered the third stage in the development of blockchain. Their concept involves an algorithm for executing built‐in transactions between counterparties. This is one of the most important open innovations introduced by blockchain technology and cryptocurrencies, since the mechanism of “smart contracts” allows you to project the system of financial instruments into the cryptocurrency market, opening up opportunities for credit transactions, bonded loans, and deferred payment [9]. 
+
+The fourth open innovation is the emergence of a Proof‐of‐Stake or POS system. This system is designed to identify miners in the chain—the participants with the highest computing power. Groups of miners provide the main data flow and provide the system with security in exchange for making payment transactions with cryptocurrency. 
+
+The fifth feature is the scalability of the technology. This point is one of the most compromised, since colossal computing power is required to expand the system while maintaining its security [10].
+(https://www.mdpi.com/2199-8531/6/4/197/pdf) 
+
+* Major companies and competitors in this domain are: River Financial, OST.com, Blockchain, Binance, Bittrex, Bitfinex, Kraken, Paxos, Xapo, Bithumb, Robinhood, Acorn and Bibox.
+
+
+
+
+
+
+## Results
+
+* The company already has significant visibility with consumers in a sector that was once exclusively the province of cryptoasset enthusiasts. In mid-December, the company’s mobile app reached the top spot-on Apple’s App Store. This has helped Coinbase secure $217M in equity financing from some of the biggest-name VCs, and vaulted the company into the unicorn club.
+
+* What are some of the core metrics that companies in this domain use to measure success? How is your company performing, based on these metrics?
+
+* Coinbase had announced that It would be going public soon but until Coinbase releases fresh financial information after going public, we won’t know how profitable the business really is or what kind of revenue it’s pulling in each year. 
+
+
+Coinbase's competitive advantage comes from their name recognition and a general consensus of trust among the community. We can see them leveraging these advantages on their website, which boasts "Secure Storage, Protected by Insurance, Industry Best Practices."
+
+## Recommendations
+
+* I really like how Robinhood has started crypto exchange too and that too free of cost. The only thing is Robinhood only allows buying and selling of a few crypto currencies whereas Coinbase offers a huge range of crypto currencies.  Looking at Coinbase, they could easily reduce the commission fee to attract more customer base. I already love their interface and how easy it is to navigate the website. Moreover, Coinbase could start their own bank where the customers wouldn’t live in constant state of worry about whether their financial institutions would ban or block their transactions. Banking services along with ATMS and credit cards for crypto currencies would enable Coinbase to tap in a whole new market and exponentially grow their business while also benefitting their customers.
+
+Bitcoin ATMs are comprised of a monitor, QR scanner, bill acceptor and dispenser. On the backend, these components are tied together via software to make the buying and selling of Bitcoin quick, easy and secure. They can also be linked directly to the Coinbase exchange to allow users to buy and sell Bitcoins or other important cryptocurrencies directly using cash without involving a third-party bank.
+
+
+	
+References
+(https://www.mdpi.com/2199-8531/6/4/197/pdf)
+(https://aws.amazon.com/solutions/case-studies/coinbase/)
+https://www.investopedia.com/tech/coinbase-what-it-and-how-do-you-use-it/#fees
+https://coincloud.medium.com/what-are-bitcoin-atms-and-how-do-they-work-46543f52d8c8
+https://seekingalpha.com/article/4212923-coinbase-strategic-analysis
+https://craft.co/coinbase/competitors
+(https://www.forbes.com/fintech/#39ae67bc13f1)
+
+https://www.forbes.com/advisor/investing/coinbase-ipo-direct-listing/
+
